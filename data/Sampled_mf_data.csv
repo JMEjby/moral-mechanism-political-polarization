@@ -1,0 +1,161 @@
+bin_pol,politics_new,id,mf,scores
+liberal,Liberal,20701,ingroup,4
+liberal,Very Liberal,22089,authority,0
+liberal,Liberal,14748,purity,2
+liberal,Slightly Liberal,19351,ingroup,3
+liberal,Very Liberal,8841,fairness,3
+liberal,Slightly Liberal,17100,purity,1
+liberal,Liberal,20925,care,4
+liberal,Liberal,18305,care,0
+liberal,Liberal,1736,authority,2
+liberal,Liberal,1470,care,4
+liberal,Slightly Liberal,16163,purity,2
+liberal,Liberal,1854,fairness,5
+liberal,Liberal,24061,fairness,3
+liberal,Very Liberal,8009,purity,0
+liberal,Slightly Liberal,22053,purity,2
+liberal,Very Liberal,16711,authority,1
+liberal,Liberal,7596,care,5
+liberal,Very Liberal,22006,purity,1
+liberal,Very Liberal,2291,care,5
+liberal,Liberal,3625,purity,4
+liberal,Liberal,4483,fairness,2
+liberal,Liberal,11477,ingroup,0
+liberal,Liberal,12714,ingroup,1
+liberal,Slightly Liberal,5479,authority,1
+liberal,Liberal,9569,fairness,4
+liberal,Liberal,79,authority,4
+liberal,Liberal,16584,authority,2
+liberal,Liberal,3312,care,4
+liberal,Liberal,9340,care,5
+liberal,Very Liberal,4776,care,5
+liberal,Very Liberal,14393,authority,0
+liberal,Very Liberal,6858,authority,4
+liberal,Liberal,21019,fairness,3
+liberal,Liberal,25,authority,3
+liberal,Very Liberal,17753,authority,1
+liberal,Slightly Liberal,14722,care,4
+liberal,Liberal,1740,authority,1
+liberal,Liberal,5353,care,4
+liberal,Very Liberal,10899,ingroup,3
+liberal,Liberal,19220,care,3
+liberal,Liberal,18815,authority,1
+liberal,Liberal,2525,ingroup,0
+liberal,Very Liberal,5940,care,5
+liberal,Liberal,14061,authority,2
+liberal,Liberal,17267,fairness,5
+liberal,Liberal,15933,ingroup,3
+liberal,Very Liberal,19958,care,4
+liberal,Very Liberal,23618,authority,3
+liberal,Liberal,7771,fairness,4
+liberal,Liberal,10021,purity,2
+liberal,Liberal,134,purity,0
+liberal,Liberal,1880,care,5
+liberal,Liberal,19438,care,2
+liberal,Liberal,3934,care,0
+liberal,Liberal,23731,ingroup,3
+liberal,Very Liberal,11636,care,3
+liberal,Liberal,3564,ingroup,4
+liberal,Liberal,18665,authority,1
+liberal,Liberal,8946,authority,2
+liberal,Liberal,20359,fairness,4
+liberal,Very Liberal,15835,fairness,5
+liberal,Liberal,8472,fairness,4
+liberal,Slightly Liberal,22168,purity,1
+liberal,Very Liberal,12661,purity,0
+liberal,Liberal,23640,purity,1
+liberal,Liberal,11003,fairness,2
+liberal,Liberal,2307,care,5
+liberal,Liberal,2800,ingroup,1
+liberal,Very Liberal,92,care,5
+liberal,Liberal,21367,fairness,0
+liberal,Liberal,635,care,1
+liberal,Liberal,20935,purity,1
+liberal,Liberal,13233,care,4
+liberal,Slightly Liberal,15045,care,5
+liberal,Liberal,11175,authority,4
+liberal,Liberal,5711,fairness,5
+liberal,Slightly Liberal,24321,authority,4
+liberal,Slightly Liberal,12972,authority,2
+liberal,Slightly Liberal,6033,ingroup,4
+liberal,Slightly Liberal,15440,purity,0
+conservative,Conservative,17817,authority,4
+conservative,Conservative,890,fairness,5
+conservative,Conservative,14030,authority,3
+conservative,Slightly Conservative,4197,authority,4
+conservative,Conservative,8366,authority,4
+conservative,Slightly Conservative,687,care,0
+conservative,Slightly Conservative,1300,ingroup,1
+conservative,Very Conservative,15596,care,4
+conservative,Slightly Conservative,22117,fairness,4
+conservative,Slightly Conservative,13306,authority,5
+conservative,Slightly Conservative,24192,care,4
+conservative,Very Conservative,14567,fairness,1
+conservative,Very Conservative,20527,care,3
+conservative,Conservative,21958,care,3
+conservative,Slightly Conservative,22179,authority,3
+conservative,Slightly Conservative,16826,fairness,4
+conservative,Slightly Conservative,22393,fairness,4
+conservative,Conservative,5358,fairness,4
+conservative,Conservative,21208,ingroup,3
+conservative,Slightly Conservative,8613,care,1
+conservative,Slightly Conservative,4782,purity,2
+conservative,Slightly Conservative,24262,fairness,2
+conservative,Conservative,21922,fairness,4
+conservative,Slightly Conservative,13987,fairness,4
+conservative,Slightly Conservative,12822,fairness,0
+conservative,Conservative,22138,authority,4
+conservative,Very Conservative,22635,fairness,1
+conservative,Conservative,12180,authority,1
+conservative,Very Conservative,16449,authority,1
+conservative,Slightly Conservative,12396,ingroup,1
+conservative,Slightly Conservative,22330,care,4
+conservative,Slightly Conservative,23936,care,5
+conservative,Very Conservative,8456,care,4
+conservative,Slightly Conservative,15729,fairness,4
+conservative,Slightly Conservative,6886,ingroup,2
+conservative,Conservative,23044,authority,4
+conservative,Slightly Conservative,5158,purity,5
+conservative,Conservative,3115,authority,5
+conservative,Very Conservative,25304,purity,5
+conservative,Conservative,21830,authority,3
+conservative,Conservative,9159,purity,5
+conservative,Slightly Conservative,3842,purity,5
+conservative,Slightly Conservative,19042,fairness,2
+conservative,Slightly Conservative,24994,purity,2
+conservative,Very Conservative,25215,care,1
+conservative,Conservative,9788,purity,5
+conservative,Slightly Conservative,16826,fairness,2
+conservative,Slightly Conservative,7199,care,4
+conservative,Conservative,11247,authority,4
+conservative,Slightly Conservative,22728,purity,2
+conservative,Conservative,2379,authority,4
+conservative,Conservative,17901,purity,5
+conservative,Conservative,464,fairness,3
+conservative,Very Conservative,24298,authority,2
+conservative,Conservative,22051,authority,4
+conservative,Conservative,1185,fairness,0
+conservative,Conservative,16550,care,5
+conservative,Conservative,24038,ingroup,4
+conservative,Conservative,24258,purity,1
+conservative,Conservative,20250,purity,2
+conservative,Conservative,10439,ingroup,4
+conservative,Slightly Conservative,21786,purity,0
+conservative,Conservative,20715,purity,3
+conservative,Conservative,15966,care,4
+conservative,Conservative,3708,authority,1
+conservative,Very Conservative,20245,purity,4
+conservative,Slightly Conservative,13708,purity,1
+conservative,Slightly Conservative,9869,purity,4
+conservative,Slightly Conservative,14280,purity,3
+conservative,Slightly Conservative,22716,ingroup,4
+conservative,Conservative,16664,ingroup,4
+conservative,Conservative,13660,fairness,0
+conservative,Conservative,3903,authority,3
+conservative,Conservative,25653,purity,4
+conservative,Conservative,16791,purity,5
+conservative,Conservative,18480,purity,2
+conservative,Very Conservative,5494,fairness,5
+conservative,Conservative,22364,care,1
+conservative,Slightly Conservative,11274,fairness,1
+conservative,Conservative,14530,ingroup,4

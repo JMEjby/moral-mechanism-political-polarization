@@ -1,0 +1,28 @@
+# macOS / RStudio junk
+.DS_Store
+.Rproj.user/
+.Rhistory
+.RData
+
+# Final dataset — too large for GitHub (host on Zenodo/OSF and cite the DOI)
+data/turtle_cluster.parquet
+
+# Withheld source data — never distribute
+sim-pack-full-model/mf_generation_data.RData
+
+# Non-shared intermediate data (the setup scripts recreate these at runtime)
+data-processing/intermediate-data/
+
+# Non-shared raw simulation output: keep the empty folders, ignore the contents
+sim-pack-full-model/outputs/raw_txt/*
+!sim-pack-full-model/outputs/raw_txt/.gitkeep
+sim-pack-full-model/outputs/raw_csv/*
+!sim-pack-full-model/outputs/raw_csv/.gitkeep
+sim-pack-full-model/outputs/combined_data/*
+!sim-pack-full-model/outputs/combined_data/.gitkeep
+
+# Transient files produced during a simulation run
+sim-pack-full-model/gen_sim_params.csv
+sim-pack-full-model/curr_gen_sim_params.csv
+sim-pack-full-model/cons_mfs.csv
+sim-pack-full-model/lib_mfs.csv
