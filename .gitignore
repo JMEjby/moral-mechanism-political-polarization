@@ -11,7 +11,11 @@ data/turtle_cluster.parquet
 sim-pack-full-model/mf_generation_data.RData
 
 # Non-shared intermediate data (the setup scripts recreate these at runtime)
-data-processing/intermediate-data/
+data-processing/intermediate-data/*
+!data-processing/intermediate-data/.gitkeep
+!data-processing/intermediate-data/links/
+data-processing/intermediate-data/links/*
+!data-processing/intermediate-data/links/.gitkeep
 
 # Non-shared raw simulation output: keep the empty folders, ignore the contents
 sim-pack-full-model/outputs/raw_txt/*
